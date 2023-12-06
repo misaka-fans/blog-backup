@@ -91,12 +91,12 @@ iconfont: "1832207_igi8uaupcus"
 
 menu:
   home: / || home
-  # about: /about/ || user
+  about: /about/ || user
   #   posts:
   #   default: / || feather
-  #   archives: /archives/ || list-alt
+  Archives: /archives/ || list-alt
   #   categories: /categories/ || th
-  #   tags: /tags/ || tags
+  Tags: /tags/ || tags
   # friends: /friends/ || heart
   # links: /links/ || magic
 
