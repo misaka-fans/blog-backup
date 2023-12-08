@@ -29,7 +29,7 @@ pnpm remove <package-name>
 ```linux
 pnpm install
 ```
-在运行想目前推荐优先运行！
+在运行项目前推荐优先运行！
 
 若要全局使用，加上-g参数。
 
