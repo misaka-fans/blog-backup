@@ -9,7 +9,7 @@ cover: https://m365-dev.com/wp-content/uploads/2018/10/pnpm1.png
 
 # 安装pnpm管理器
 ```linux
-pnpm i -g pnpm
+npm i -g pnpm
 ```
 
 全局安装pnpm。<b>首先要记得提前安装npm，nodejs>10</b>
