@@ -1,7 +1,7 @@
 ---
 title: 一些在实践中学到的pnpm使用技巧
 date: 2023-12-08 20:57:21
-tags: coding, study
+tags: coding
 cover: https://m365-dev.com/wp-content/uploads/2018/10/pnpm1.png
 ---
 # 0、前言
