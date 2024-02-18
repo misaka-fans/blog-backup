@@ -128,3 +128,4 @@ backup:
     message: this is my blog backup
     repo:
       github: http://github.com/misaka-fans/blog-backup.git,main
+    branch: main
