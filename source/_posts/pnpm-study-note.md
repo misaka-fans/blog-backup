@@ -5,7 +5,7 @@ tags: coding
 cover: https://m365-dev.com/wp-content/uploads/2018/10/pnpm1.png
 ---
 # 0、前言
-本文章按照ubuntu编写，其他系统请自行更换brew等工具
+本文章按照ubuntu编写，其他系统请自行更换brew等工具。
 
 # 安装pnpm管理器
 ```linux
