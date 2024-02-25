@@ -115,6 +115,14 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: shoka
 
+pwa:
+  enable: true
+  manifest: /img/pwa/manifest.json
+  apple_touch_icon: /img/pwa/apple-touch-icon.png
+  favicon_32_32: /img/pwa/32.png
+  favicon_16_16: /img/pwa/16.png
+  mask_icon: /img/pwa/safari-pinned-tab.svg
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
