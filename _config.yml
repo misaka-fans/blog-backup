@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Misaka09982的进步日记
+title: kanadeCN的进步日记
 subtitle: ''
 description: '记录自己的每一次成长'
-keywords:
-author: Misaka09982
+keywords: kanadeCN
+author: kanadeCN
 language: zh-CN
 timezone: ''
 
@@ -30,7 +30,7 @@ live2d:
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://blog.misaka-fans.space/
+url: https://kanadecn.com/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
