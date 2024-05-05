@@ -1,6 +1,6 @@
 
 # Alternate site name
-alternate: Misaka Home
+alternate: kanadeCN的虚拟小家
 
 open_graph:
   #twitter_id:
@@ -24,7 +24,7 @@ favicon:
 # Dark Mode
 # By default, the page judges whether to turn on the dark mode according to the device settings or user selection
 # if `true`, the page will be displayed directly as Dark Mode, unless the user makes another choice
-darkmode: false
+darkmode: true
 
 # By default the page will automatically scroll to the last viewed position
 # if `false`, automatic positioning will be turned off
@@ -106,7 +106,7 @@ menu:
 # Value before `||` delimiter is the target permalink,
 # secend value is the name of Font icon.
 social:
-  github: https://github.com/misaka-fans || github || "#191717"
+  github: https://github.com/kanadeCN || github || "#191717"
   #google: https://plus.google.com/yourname || google
   #twitter: https://twitter.com/yourname || twitter || "#00aff0"
   zhihu: https://www.zhihu.com/people/shbwb-90 || zhihu || "#1e88e5"
